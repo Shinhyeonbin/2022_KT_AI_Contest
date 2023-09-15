@@ -1,0 +1,1 @@
+# 2022_KT_AI_Contest
